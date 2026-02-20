@@ -1,0 +1,8 @@
+id=PixelGameRefreshRateUnlocker
+name=Game Refresh Rate Unlocker for Google Pixel
+version=26.2.21
+versionCode=26260221
+author=@16CharactersOnly
+description=使停用游戏的默认帧速率选项在重启时保持开启 | Force Disable default frame rate for games.
+banner=banner.png
+axeronPlugin=12200
