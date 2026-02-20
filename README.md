@@ -1,2 +1,2 @@
-# axmanager-module-pixel-grru
-Game Refresh Rate Unlocker for Google Pixel
+##Game Refresh Rate Unlocker Module for Google Pixel
+#Only for AxManager and XadKern!
